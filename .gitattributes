@@ -1,0 +1,39 @@
+# Godot 
+*.tscn text eol=lf
+*.scn binary
+
+*.tres text eol=lf
+*.res binary
+
+*.gd text eol=lf
+*.gd.uid text eol=lf
+
+*.shader text eol=lf
+*.gdshader text eol=lf
+
+project.godot text eol=lf
+*.cfg text eol=lf
+*.ini text eol=lf
+
+*.import text eol=lf
+*.png.import text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ogg binary
+*.wav binary
+*.mp3 binary
+*.webp binary
+*.mp4 binary
+*.obj binary
+*.glb binary
+*.fbx binary
+*.blend binary
+*.ttf binary
+*.otf binary
+
+*.translation text eol=lf
+
+*.tscn merge
+*.tres merge
